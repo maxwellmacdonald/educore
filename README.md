@@ -1,0 +1,2 @@
+# educore
+school management system
